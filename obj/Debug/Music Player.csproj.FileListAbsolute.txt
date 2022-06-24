@@ -1,0 +1,31 @@
+D:\Source\Project\Music Player\bin\Debug\Music Player.exe.config
+D:\Source\Project\Music Player\bin\Debug\Music Player.exe
+D:\Source\Project\Music Player\bin\Debug\Music Player.pdb
+D:\Source\Project\Music Player\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+D:\Source\Project\Music Player\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+D:\Source\Project\Music Player\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+D:\Source\Project\Music Player\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+D:\Source\Project\Music Player\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+D:\Source\Project\Music Player\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+D:\Source\Project\Music Player\obj\Debug\Music Player.csproj.AssemblyReference.cache
+D:\Source\Project\Music Player\obj\Debug\Music Player.csproj.SuggestedBindingRedirects.cache
+D:\Source\Project\Music Player\obj\Debug\MainWindow.baml
+D:\Source\Project\Music Player\obj\Debug\App.baml
+D:\Source\Project\Music Player\obj\Debug\MainWindow.g.cs
+D:\Source\Project\Music Player\obj\Debug\App.g.cs
+D:\Source\Project\Music Player\obj\Debug\Music Player_MarkupCompile.cache
+D:\Source\Project\Music Player\obj\Debug\Music Player.g.resources
+D:\Source\Project\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+D:\Source\Project\Music Player\obj\Debug\Music Player.csproj.GenerateResource.cache
+D:\Source\Project\Music Player\obj\Debug\Music Player.csproj.CoreCompileInputs.cache
+D:\Source\Project\Music Player\obj\Debug\Music Player.csproj.CopyComplete
+D:\Source\Project\Music Player\obj\Debug\Music Player.exe
+D:\Source\Project\Music Player\obj\Debug\Music Player.pdb
+D:\Source\Project\Music Player\obj\Debug\Controle\MusicItem.baml
+D:\Source\Project\Music Player\obj\Debug\Controle\MusicItem.g.cs
+D:\Source\Project\Music Player\obj\Debug\Music Player_MarkupCompile.lref
+D:\Source\Project\Music Player\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Source\Project\Music Player\obj\Debug\Controle\MusicPopular.baml
+D:\Source\Project\Music Player\obj\Debug\Controle\MusicPopular.g.cs
+D:\Source\Project\Music Player\obj\Debug\Controle\Playlist.baml
+D:\Source\Project\Music Player\obj\Debug\Controle\Playlist.g.cs
